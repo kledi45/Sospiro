@@ -12,7 +12,7 @@ const Gallery = () => {
       alt: "Fine dining table setting"
     },
     {
-      src: "https://images.unsplash.com/photo-1455279032140-49a3ccbc832f?q=80&w=3270&auto=format&fit=crop",
+      src: "https://images.unsplash.com/photo-1734356959885-54fe2e99c1cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXRhbGlhbiUyMHBhc3RhJTIwZGlzaCUyMGZpbmUlMjBkaW5pbmd8ZW58MHx8MHx8fDA%3D",
       alt: "Italian pasta dish"
     },
     {
@@ -24,7 +24,7 @@ const Gallery = () => {
       alt: "Chef preparing food"
     },
     {
-      src: "https://images.unsplash.com/photo-1481931098730-318b6f32795a?q=80&w=3237&auto=format&fit=crop",
+      src: "https://images.unsplash.com/photo-1655779225590-34d4cb8b7f50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2luZSUyMHNlbGVjdGlvbiUyMGZpbmUlMjBkaW5naW5nfGVufDB8fDB8fHww",
       alt: "Wine selection"
     },
     {
