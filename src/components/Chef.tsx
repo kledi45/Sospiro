@@ -40,7 +40,7 @@ const Chef = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-fixed"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1556637641-0ac7101023f9?q=80&w=3270&auto=format&fit=crop')",
+            backgroundImage: "url('')",
             opacity: 0.3
           }}
         />
