@@ -9,7 +9,7 @@ import Reservation from "@/components/Reservation";
 import Testimonials from "@/components/Testimonials";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
-
+import BotpressChat from "@/components/BotpressChat";
 const Index = () => {
   return (
     <div className="min-h-screen">
@@ -23,6 +23,7 @@ const Index = () => {
       <Reservation />
       <Contact />
       <Footer />
+      <BotpressChat />
     </div>
   );
 };
